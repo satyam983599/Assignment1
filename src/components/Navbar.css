@@ -1,0 +1,60 @@
+.search-bar {
+    width: 360px;
+    height: 42px;
+    position: absolute;
+    margin-left: 540px; 
+    margin-top: 16px;
+    background-color: #F2F2F2;
+    border-radius: 21px;
+    
+}
+.search-bar input {
+    border-radius: 21px;
+    background-color: #F2F2F2;
+    border: none;
+    border-color: none;
+}
+.search-bar .input-group-text {
+    background: none;
+    border: none;
+}
+.form-control{
+    width: 242px;
+    height:19px;
+    color: #5C5C5C;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 590px;
+    font-family: "IBM Plex Sans", sans-serif;
+
+    
+}
+.Fa-icon{
+    width: 16.03px;
+    height: 16.03px;
+    margin-top: 26px;
+    position: absolute;
+    margin-left: 554px;
+    z-index: 100;
+    margin-left:2.75px ;
+    opacity: 0.4;
+
+}
+.createAccount{
+ position: absolute;
+width: 183px;
+height: 21px;
+margin-left: 1161px;
+margin-top: 27px;
+font-family: "IBM Plex Sans", sans-serif;
+font-style: normal;
+font-size: 16px;
+line-height: 21px;
+text-align: right;
+cursor: pointer;
+
+color: #2E2E2E;
+}
+
+
+
